@@ -1,0 +1,56 @@
+[
+  {
+    "id": "neymar",
+    "name": "Neymar Jr",
+    "position": "RW",
+    "rating": 93,
+    "status": "healthy",
+    "attributes": {"pace": 92, "shooting": 88, "passing": 86, "dribbling": 95, "defending": 38, "physical": 76},
+    "traits": ["dribbler", "playmaker", "free_kick_specialist"]
+  },
+  {
+    "id": "vinicius",
+    "name": "Vinicius Jr",
+    "position": "LW",
+    "rating": 90,
+    "status": "healthy",
+    "attributes": {"pace": 95, "shooting": 82, "passing": 80, "dribbling": 91, "defending": 35, "physical": 75},
+    "traits": ["wing_attack", "dribbler", "fast_footwork"]
+  },
+  {
+    "id": "richarlison",
+    "name": "Richarlison",
+    "position": "ST",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {"pace": 85, "shooting": 85, "passing": 78, "dribbling": 82, "defending": 40, "physical": 83},
+    "traits": ["target_man", "counter_attack", "hold_up"]
+  },
+  {
+    "id": "casemiro",
+    "name": "Casemiro",
+    "position": "CDM",
+    "rating": 91,
+    "status": "healthy",
+    "attributes": {"pace": 78, "shooting": 70, "passing": 85, "dribbling": 76, "defending": 92, "physical": 88},
+    "traits": ["interceptor", "stamina", "tactical_awareness"]
+  },
+  {
+    "id": "fred",
+    "name": "Fred",
+    "position": "CM",
+    "rating": 87,
+    "status": "healthy",
+    "attributes": {"pace": 80, "shooting": 72, "passing": 83, "dribbling": 80, "defending": 85, "physical": 85},
+    "traits": ["box_to_box", "stamina", "long_pass"]
+  },
+  {
+    "id": "marquinhos",
+    "name": "Marquinhos",
+    "position": "CB",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {"pace": 82, "shooting": 50, "passing": 80, "dribbling": 70, "defending": 91, "physical": 88},
+    "traits": ["defender", "leader", "aerial_duels"]
+  }
+]

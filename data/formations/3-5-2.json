@@ -1,0 +1,17 @@
+{
+  "id": "3-5-2",
+  "name": "3-5-2",
+  "positions": ["GK","LCB","CB","RCB","LWB","LCM","CM","RCM","RWB","ST","ST"],
+  "description": "三中卫体系，翼卫主导边路，中场人数优势控制节奏，双前锋形成支点和抢点组合",
+  "formation_tags": ["possession","wing_play","high_press"],
+  "tactical_profile": {
+    "attack": 82,
+    "midfield": 90,
+    "defense": 78,
+    "width": 85,
+    "pressing": 80,
+    "risk": 75,
+    "possession": 88,
+    "counter_attack": 72
+  }
+}

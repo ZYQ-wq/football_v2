@@ -1,0 +1,57 @@
+{
+  "id": "japan",
+  "name": "Japan",
+  "flag": "🇯🇵",
+  "continent": "Asia",
+  "fifa_rank": 18,
+  "coach_id": "moriyasu",
+  "preferred_formation": "4-2-3-1",
+  "formations": ["4-2-3-1", "4-3-3"],
+  "team_attributes": {
+    "attack": 84,
+    "midfield": 85,
+    "defense": 83,
+    "goalkeeper": 82,
+    "pace": 87,
+    "physical": 79,
+    "creativity": 84,
+    "set_piece": 80
+  },
+  "tactical_tags": ["快速反击", "高位逼抢", "团队协作"],
+  "recent_form": {
+    "wins": 4,
+    "draws": 0,
+    "losses": 1,
+    "goals_for": 13,
+    "goals_against": 4
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "suzuki",
+    "LB": "ito",
+    "LCB": "itakura",
+    "RCB": "tomiyasu",
+    "RB": "sugawara",
+    "CDM": "endo",
+    "LCM": "morita",
+    "RCM": "kubo",
+    "LW": "mitoma",
+    "ST": "ueda",
+    "RW": "doan"
+  },
+  "bench": ["minamino", "tanaka", "machino"],
+  "players": [
+    "mitoma",
+    "kubo",
+    "endo",
+    "tomiyasu",
+    "doan",
+    "ueda"
+  ],
+  "head_to_head_ids": ["germany", "spain"],
+  "historical_notes": [
+    "亚洲最强国家队之一",
+    "整体执行力和跑动能力突出"
+  ]
+}

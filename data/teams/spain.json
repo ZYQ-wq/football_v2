@@ -1,0 +1,57 @@
+{
+  "id": "spain",
+  "name": "Spain",
+  "flag": "🇪🇸",
+  "continent": "Europe",
+  "fifa_rank": 5,
+  "coach_id": "de_la_fuente",
+  "preferred_formation": "4-3-3",
+  "formations": ["4-3-3", "4-2-3-1"],
+  "team_attributes": {
+    "attack": 88,
+    "midfield": 92,
+    "defense": 86,
+    "goalkeeper": 87,
+    "pace": 84,
+    "physical": 81,
+    "creativity": 92,
+    "set_piece": 83
+  },
+  "tactical_tags": ["控球推进", "短传渗透", "高位逼抢"],
+  "recent_form": {
+    "wins": 4,
+    "draws": 1,
+    "losses": 0,
+    "goals_for": 10,
+    "goals_against": 2
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "simon",
+    "LB": "cucurella",
+    "LCB": "laporte",
+    "RCB": "le_normand",
+    "RB": "carvajal",
+    "CDM": "rodri",
+    "LCM": "pedri",
+    "RCM": "ruiz",
+    "LW": "nico_williams",
+    "ST": "morata",
+    "RW": "yamal"
+  },
+  "bench": ["olmo", "zubimendi", "torres"],
+  "players": [
+    "rodri",
+    "pedri",
+    "yamal",
+    "nico_williams",
+    "morata",
+    "ruiz"
+  ],
+  "head_to_head_ids": ["germany", "france", "portugal"],
+  "historical_notes": [
+    "传控足球代表球队",
+    "中场控制能力世界顶级"
+  ]
+}

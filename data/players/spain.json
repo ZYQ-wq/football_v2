@@ -1,0 +1,137 @@
+[
+  {
+    "id": "rodri",
+    "name": "Rodri",
+    "position": "CDM",
+    "age": 30,
+    "club": "Manchester City",
+    "rating": 92,
+    "status": "healthy",
+    "attributes": {
+      "pace": 74,
+      "shooting": 82,
+      "passing": 93,
+      "dribbling": 86,
+      "defending": 92,
+      "physical": 88
+    },
+    "traits": [
+      "deep_playmaker",
+      "interceptor",
+      "leader",
+      "long_pass"
+    ]
+  },
+  {
+    "id": "pedri",
+    "name": "Pedri",
+    "position": "CM",
+    "age": 24,
+    "club": "Barcelona",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {
+      "pace": 81,
+      "shooting": 79,
+      "passing": 91,
+      "dribbling": 90,
+      "defending": 72,
+      "physical": 74
+    },
+    "traits": [
+      "playmaker",
+      "vision",
+      "ball_retention",
+      "through_ball"
+    ]
+  },
+  {
+    "id": "yamal",
+    "name": "Lamine Yamal",
+    "position": "RW",
+    "age": 19,
+    "club": "Barcelona",
+    "rating": 90,
+    "status": "healthy",
+    "attributes": {
+      "pace": 92,
+      "shooting": 84,
+      "passing": 85,
+      "dribbling": 93,
+      "defending": 42,
+      "physical": 70
+    },
+    "traits": [
+      "dribbler",
+      "wing_attack",
+      "creative_flair",
+      "one_on_one"
+    ]
+  },
+  {
+    "id": "nico_williams",
+    "name": "Nico Williams",
+    "position": "LW",
+    "age": 24,
+    "club": "Athletic Bilbao",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {
+      "pace": 95,
+      "shooting": 81,
+      "passing": 80,
+      "dribbling": 89,
+      "defending": 38,
+      "physical": 78
+    },
+    "traits": [
+      "explosive_speed",
+      "wing_attack",
+      "counter_attack"
+    ]
+  },
+  {
+    "id": "morata",
+    "name": "Alvaro Morata",
+    "position": "ST",
+    "age": 34,
+    "club": "AC Milan",
+    "rating": 84,
+    "status": "healthy",
+    "attributes": {
+      "pace": 79,
+      "shooting": 85,
+      "passing": 74,
+      "dribbling": 78,
+      "defending": 35,
+      "physical": 82
+    },
+    "traits": [
+      "target_man",
+      "finisher",
+      "aerial_duels"
+    ]
+  },
+  {
+    "id": "cucurella",
+    "name": "Marc Cucurella",
+    "position": "LB",
+    "age": 28,
+    "club": "Chelsea",
+    "rating": 84,
+    "status": "healthy",
+    "attributes": {
+      "pace": 83,
+      "shooting": 60,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 84,
+      "physical": 80
+    },
+    "traits": [
+      "overlapping_runs",
+      "crossing",
+      "stamina"
+    ]
+  }
+]

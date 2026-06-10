@@ -1,0 +1,8 @@
+{
+  "id": "high_press",
+  "name": "高位逼抢",
+  "pressing_intensity": 90,
+  "risk_level": 70,
+  "preferred_area": "前场",
+  "description": "全场高位压迫，对方持球立即逼抢，适合体能充沛的球队"
+}

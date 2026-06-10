@@ -1,0 +1,47 @@
+{
+  "id": "england",
+  "name": "England",
+  "flag": "🏴",
+  "continent": "Europe",
+  "fifa_rank": 4,
+  "coach_id": "tuchel",
+  "preferred_formation": "4-2-3-1",
+  "formations": ["4-2-3-1", "4-3-3"],
+  "team_attributes": {
+    "attack": 90,
+    "midfield": 91,
+    "defense": 87,
+    "goalkeeper": 89,
+    "pace": 84,
+    "physical": 88,
+    "creativity": 89,
+    "set_piece": 80
+  },
+  "tactical_tags": ["高位逼抢", "控球推进", "快速转换"],
+  "recent_form": {
+    "wins": 3,
+    "draws": 2,
+    "losses": 0,
+    "goals_for": 9,
+    "goals_against": 4
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "pickford",
+    "LB": "shaws",
+    "LCB": "stones",
+    "RCB": "maguire",
+    "RB": "walker",
+    "CDM": "rice",
+    "LCM": "bellingham",
+    "RCM": "phillips",
+    "LW": "sterling",
+    "ST": "kane",
+    "RW": "saka"
+  },
+  "bench": ["foden", "trippier", "johnstones"],
+  "players": ["kane", "sterling", "saka", "bellingham", "rice", "phillips"],
+  "head_to_head_ids": ["france", "germany"],
+  "historical_notes": ["快速转守为攻", "中场控制力强"]
+}

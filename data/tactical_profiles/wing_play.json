@@ -1,0 +1,8 @@
+{
+    "id": "wing_play",
+    "name": "边路进攻",
+    "pressing_intensity": 60,
+    "risk_level": 55,
+    "preferred_area": "边路",
+    "description": "两翼齐飞，边后卫频繁套上，通过下底传中或倒三角制造威胁，中场注重横向转移"
+  }

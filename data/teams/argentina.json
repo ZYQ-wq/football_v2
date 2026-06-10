@@ -1,0 +1,47 @@
+{
+  "id": "argentina",
+  "name": "Argentina",
+  "flag": "🇦🇷",
+  "continent": "South America",
+  "fifa_rank": 3,
+  "coach_id": "scaloni",
+  "preferred_formation": "4-3-3",
+  "formations": ["4-3-3", "4-2-3-1"],
+  "team_attributes": {
+    "attack": 92,
+    "midfield": 88,
+    "defense": 86,
+    "goalkeeper": 87,
+    "pace": 89,
+    "physical": 84,
+    "creativity": 90,
+    "set_piece": 83
+  },
+  "tactical_tags": ["快速反击", "控球推进", "边路突破"],
+  "recent_form": {
+    "wins": 4,
+    "draws": 1,
+    "losses": 0,
+    "goals_for": 12,
+    "goals_against": 5
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "martinez",
+    "LB": "acuna",
+    "LCB": "romero",
+    "RCB": "otamendi",
+    "RB": "montiel",
+    "CDM": "depaul",
+    "LCM": "perez",
+    "RCM": "lo_celso",
+    "LW": "messi",
+    "ST": "lautaro",
+    "RW": "di_maria"
+  },
+  "bench": ["paredes", "dominguez", "alvarez"],
+  "players": ["messi", "lautaro", "di_maria", "depaul", "lo_celso", "perez"],
+  "head_to_head_ids": ["brazil", "spain"],
+  "historical_notes": ["南美技术型球队", "擅长个人突破"]
+}

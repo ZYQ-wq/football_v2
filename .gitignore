@@ -1,0 +1,45 @@
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+*.so
+
+# 打包/分发文件
+build/
+dist/
+*.egg-info/
+*.egg
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 数据库文件
+*.db
+*.sqlite3
+
+# 环境变量文件
+.env
+.venv
+
+# 测试/覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 我的秘密/密钥文件
+*.pem
+*.key

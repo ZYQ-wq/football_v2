@@ -1,0 +1,8 @@
+{
+    "id": "vertical_football",
+    "name": "垂直快攻",
+    "pressing_intensity": 75,
+    "risk_level": 85,
+    "preferred_area": "中场",
+    "description": "一脚出球纵向传递，不进行横向盘带，3-5秒内完成从防守到射门的转换，体能消耗极大"
+  }

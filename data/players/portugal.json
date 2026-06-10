@@ -1,0 +1,139 @@
+[
+  {
+    "id": "bruno_fernandes",
+    "name": "Bruno Fernandes",
+    "position": "CAM",
+    "age": 32,
+    "club": "Manchester United",
+    "rating": 90,
+    "status": "healthy",
+    "attributes": {
+      "pace": 78,
+      "shooting": 88,
+      "passing": 93,
+      "dribbling": 86,
+      "defending": 70,
+      "physical": 78
+    },
+    "traits": [
+      "playmaker",
+      "through_ball",
+      "long_shot",
+      "leader"
+    ]
+  },
+  {
+    "id": "bernardo_silva",
+    "name": "Bernardo Silva",
+    "position": "CM",
+    "age": 32,
+    "club": "Manchester City",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {
+      "pace": 81,
+      "shooting": 82,
+      "passing": 91,
+      "dribbling": 92,
+      "defending": 72,
+      "physical": 74
+    },
+    "traits": [
+      "ball_retention",
+      "playmaker",
+      "press_resistant",
+      "work_rate"
+    ]
+  },
+  {
+    "id": "rafael_leao",
+    "name": "Rafael Leao",
+    "position": "LW",
+    "age": 27,
+    "club": "AC Milan",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {
+      "pace": 95,
+      "shooting": 84,
+      "passing": 79,
+      "dribbling": 91,
+      "defending": 38,
+      "physical": 84
+    },
+    "traits": [
+      "explosive_speed",
+      "wing_attack",
+      "one_on_one",
+      "counter_attack"
+    ]
+  },
+  {
+    "id": "ruben_dias",
+    "name": "Ruben Dias",
+    "position": "CB",
+    "age": 30,
+    "club": "Manchester City",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {
+      "pace": 75,
+      "shooting": 48,
+      "passing": 82,
+      "dribbling": 70,
+      "defending": 92,
+      "physical": 91
+    },
+    "traits": [
+      "leader",
+      "aerial_duels",
+      "aggressive_defender",
+      "positioning"
+    ]
+  },
+  {
+    "id": "vitinha",
+    "name": "Vitinha",
+    "position": "CM",
+    "age": 26,
+    "club": "Paris Saint-Germain",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {
+      "pace": 80,
+      "shooting": 78,
+      "passing": 90,
+      "dribbling": 89,
+      "defending": 73,
+      "physical": 72
+    },
+    "traits": [
+      "playmaker",
+      "vision",
+      "press_resistant",
+      "short_pass_master"
+    ]
+  },
+  {
+    "id": "diogo_costa",
+    "name": "Diogo Costa",
+    "position": "GK",
+    "age": 27,
+    "club": "Porto",
+    "rating": 87,
+    "status": "healthy",
+    "attributes": {
+      "pace": 40,
+      "shooting": 18,
+      "passing": 82,
+      "dribbling": 38,
+      "defending": 89,
+      "physical": 81
+    },
+    "traits": [
+      "shot_stopper",
+      "distribution",
+      "penalty_specialist"
+    ]
+  }
+]

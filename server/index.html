@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Football Simulation Demo</title>
+</head>
+<body>
+    <h1>Football Simulation Demo</h1>
+
+    <label>Home Team: </label>
+    <select id="home">
+        <option value="france">France</option>
+        <option value="england">England</option>
+        <option value="brazil">Brazil</option>
+        <option value="germany">Germany</option>
+    </select>
+
+    <label>Away Team: </label>
+    <select id="away">
+        <option value="france">France</option>
+        <option value="england">England</option>
+        <option value="brazil">Brazil</option>
+        <option value="germany">Germany</option>
+    </select>
+
+    <button id="simulate">Simulate Match</button>
+
+    <pre id="result" style="white-space: pre-wrap; border:1px solid #ccc; padding:10px;"></pre>
+
+    <script>
+        document.getElementById("simulate").addEventListener("click", async () => {
+            const home_team = document.getElementById("home").value;
+            const away_team = document.getElementById("away").value;
+
+            const response = await fetch("http://127.0.0.1:8000/api/simulate", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ home_team, away_team })
+            });
+
+            const data = await response.json();
+            document.getElementById("result").textContent = JSON.stringify(data, null, 2);
+        });
+    </script>
+</body>
+</html>

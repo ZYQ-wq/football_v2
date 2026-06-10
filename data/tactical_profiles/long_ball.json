@@ -1,0 +1,8 @@
+{
+    "id": "long_ball",
+    "name": "长传冲吊",
+    "pressing_intensity": 40,
+    "risk_level": 75,
+    "preferred_area": "中场",
+    "description": "放弃中场过渡，直接长传找高大中锋争抢第二落点，适合身体对抗占优的球队"
+  }

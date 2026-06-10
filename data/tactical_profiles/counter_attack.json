@@ -1,0 +1,8 @@
+{
+    "id": "counter_attack",
+    "name": "防守反击",
+    "pressing_intensity": 35,
+    "risk_level": 80,
+    "preferred_area": "后场",
+    "description": "收缩防线诱使对方压上，断球后快速通过直塞或长传找速度型前锋，攻守转换极快"
+}

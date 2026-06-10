@@ -1,0 +1,8 @@
+{
+    "id": "tiki_taka",
+    "name": "控球战术",
+    "pressing_intensity": 65,
+    "risk_level": 40,
+    "preferred_area": "中场",
+    "description": "通过短传和三角配合控制比赛节奏，丢球后立即进行5秒反抢，注重阵型紧凑"
+}

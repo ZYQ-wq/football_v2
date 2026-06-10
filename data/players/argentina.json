@@ -1,0 +1,135 @@
+[
+  {
+    "id": "messi",
+    "name": "Lionel Messi",
+    "position": "RW",
+    "age": 39,
+    "club": "Inter Miami",
+    "rating": 92,
+    "status": "healthy",
+    "attributes": {
+      "pace": 82,
+      "shooting": 92,
+      "passing": 95,
+      "dribbling": 94,
+      "defending": 35,
+      "physical": 68
+    },
+    "traits": [
+      "playmaker",
+      "dribbler",
+      "free_kick_specialist",
+      "big_game_player"
+    ]
+  },
+  {
+    "id": "lautaro",
+    "name": "Lautaro Martinez",
+    "position": "ST",
+    "age": 29,
+    "club": "Inter Milan",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {
+      "pace": 84,
+      "shooting": 90,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 40,
+      "physical": 82
+    },
+    "traits": [
+      "finisher",
+      "pressing_forward",
+      "poacher"
+    ]
+  },
+  {
+    "id": "enzo",
+    "name": "Enzo Fernandez",
+    "position": "CM",
+    "age": 25,
+    "club": "Chelsea",
+    "rating": 87,
+    "status": "healthy",
+    "attributes": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 89,
+      "dribbling": 84,
+      "defending": 80,
+      "physical": 81
+    },
+    "traits": [
+      "playmaker",
+      "long_pass",
+      "box_to_box"
+    ]
+  },
+  {
+    "id": "de_paul",
+    "name": "Rodrigo De Paul",
+    "position": "CM",
+    "age": 32,
+    "club": "Atletico Madrid",
+    "rating": 85,
+    "status": "healthy",
+    "attributes": {
+      "pace": 78,
+      "shooting": 76,
+      "passing": 86,
+      "dribbling": 82,
+      "defending": 79,
+      "physical": 82
+    },
+    "traits": [
+      "work_rate",
+      "pressing",
+      "leadership"
+    ]
+  },
+  {
+    "id": "romero",
+    "name": "Cristian Romero",
+    "position": "CB",
+    "age": 28,
+    "club": "Tottenham",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {
+      "pace": 82,
+      "shooting": 50,
+      "passing": 79,
+      "dribbling": 72,
+      "defending": 90,
+      "physical": 88
+    },
+    "traits": [
+      "aggressive_defender",
+      "aerial_duels",
+      "leader"
+    ]
+  },
+  {
+    "id": "martinez_gk",
+    "name": "Emiliano Martinez",
+    "position": "GK",
+    "age": 34,
+    "club": "Aston Villa",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {
+      "pace": 40,
+      "shooting": 20,
+      "passing": 75,
+      "dribbling": 35,
+      "defending": 90,
+      "physical": 85
+    },
+    "traits": [
+      "penalty_specialist",
+      "shot_stopper",
+      "big_game_player"
+    ]
+  }
+]

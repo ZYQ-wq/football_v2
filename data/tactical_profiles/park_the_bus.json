@@ -1,0 +1,8 @@
+{
+    "id": "park_the_bus",
+    "name": "密集防守",
+    "pressing_intensity": 25,
+    "risk_level": 20,
+    "preferred_area": "后场",
+    "description": "全员退守禁区前沿，放弃控球权，依靠人数优势封堵射门和传中，追求反击或平局"
+  }

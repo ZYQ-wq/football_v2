@@ -1,0 +1,57 @@
+{
+  "id": "portugal",
+  "name": "Portugal",
+  "flag": "🇵🇹",
+  "continent": "Europe",
+  "fifa_rank": 6,
+  "coach_id": "martinez",
+  "preferred_formation": "4-3-3",
+  "formations": ["4-3-3", "3-4-3"],
+  "team_attributes": {
+    "attack": 89,
+    "midfield": 88,
+    "defense": 86,
+    "goalkeeper": 88,
+    "pace": 85,
+    "physical": 83,
+    "creativity": 90,
+    "set_piece": 89
+  },
+  "tactical_tags": ["边路进攻", "快速反击", "技术流"],
+  "recent_form": {
+    "wins": 4,
+    "draws": 0,
+    "losses": 1,
+    "goals_for": 12,
+    "goals_against": 4
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "costa",
+    "LB": "mendes",
+    "LCB": "dias",
+    "RCB": "silva",
+    "RB": "cancelo",
+    "CDM": "palhinha",
+    "LCM": "vitinha",
+    "RCM": "bernardo_silva",
+    "LW": "leao",
+    "ST": "ramos",
+    "RW": "fernandes"
+  },
+  "bench": ["felix", "jota", "neves"],
+  "players": [
+    "bernardo_silva",
+    "fernandes",
+    "leao",
+    "dias",
+    "vitinha",
+    "ramos"
+  ],
+  "head_to_head_ids": ["spain", "france", "germany"],
+  "historical_notes": [
+    "技术能力出众",
+    "拥有大量欧洲顶级联赛球员"
+  ]
+}

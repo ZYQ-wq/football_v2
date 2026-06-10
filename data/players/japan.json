@@ -1,0 +1,139 @@
+[
+  {
+    "id": "mitoma",
+    "name": "Kaoru Mitoma",
+    "position": "LW",
+    "age": 29,
+    "club": "Brighton",
+    "rating": 86,
+    "status": "healthy",
+    "attributes": {
+      "pace": 92,
+      "shooting": 80,
+      "passing": 81,
+      "dribbling": 91,
+      "defending": 42,
+      "physical": 74
+    },
+    "traits": [
+      "dribbler",
+      "wing_attack",
+      "counter_attack",
+      "one_on_one"
+    ]
+  },
+  {
+    "id": "kubo",
+    "name": "Takefusa Kubo",
+    "position": "RW",
+    "age": 25,
+    "club": "Real Sociedad",
+    "rating": 86,
+    "status": "healthy",
+    "attributes": {
+      "pace": 87,
+      "shooting": 81,
+      "passing": 84,
+      "dribbling": 90,
+      "defending": 45,
+      "physical": 70
+    },
+    "traits": [
+      "playmaker",
+      "dribbler",
+      "creative_flair",
+      "wing_attack"
+    ]
+  },
+  {
+    "id": "endo",
+    "name": "Wataru Endo",
+    "position": "CDM",
+    "age": 33,
+    "club": "Liverpool",
+    "rating": 84,
+    "status": "healthy",
+    "attributes": {
+      "pace": 73,
+      "shooting": 68,
+      "passing": 82,
+      "dribbling": 75,
+      "defending": 88,
+      "physical": 86
+    },
+    "traits": [
+      "interceptor",
+      "leader",
+      "stamina",
+      "tactical_awareness"
+    ]
+  },
+  {
+    "id": "tomiyasu",
+    "name": "Takehiro Tomiyasu",
+    "position": "CB",
+    "age": 28,
+    "club": "Arsenal",
+    "rating": 85,
+    "status": "healthy",
+    "attributes": {
+      "pace": 80,
+      "shooting": 50,
+      "passing": 78,
+      "dribbling": 72,
+      "defending": 88,
+      "physical": 86
+    },
+    "traits": [
+      "versatile_defender",
+      "aerial_duels",
+      "positioning",
+      "discipline"
+    ]
+  },
+  {
+    "id": "doan",
+    "name": "Ritsu Doan",
+    "position": "RW",
+    "age": 28,
+    "club": "Freiburg",
+    "rating": 83,
+    "status": "healthy",
+    "attributes": {
+      "pace": 84,
+      "shooting": 80,
+      "passing": 79,
+      "dribbling": 84,
+      "defending": 48,
+      "physical": 72
+    },
+    "traits": [
+      "inside_forward",
+      "work_rate",
+      "pressing",
+      "long_shot"
+    ]
+  },
+  {
+    "id": "suzuki",
+    "name": "Zion Suzuki",
+    "position": "GK",
+    "age": 24,
+    "club": "Parma",
+    "rating": 82,
+    "status": "healthy",
+    "attributes": {
+      "pace": 42,
+      "shooting": 15,
+      "passing": 75,
+      "dribbling": 35,
+      "defending": 85,
+      "physical": 84
+    },
+    "traits": [
+      "shot_stopper",
+      "reflexes",
+      "distribution"
+    ]
+  }
+]

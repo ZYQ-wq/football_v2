@@ -1,0 +1,56 @@
+[
+  {
+    "id": "kane",
+    "name": "Harry Kane",
+    "position": "ST",
+    "rating": 91,
+    "status": "healthy",
+    "attributes": {"pace": 80, "shooting": 92, "passing": 84, "dribbling": 78, "defending": 40, "physical": 85},
+    "traits": ["finisher", "hold_up", "penalty_specialist"]
+  },
+  {
+    "id": "sterling",
+    "name": "Raheem Sterling",
+    "position": "LW",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {"pace": 93, "shooting": 83, "passing": 81, "dribbling": 90, "defending": 35, "physical": 78},
+    "traits": ["wing_attack", "dribbler", "fast_footwork"]
+  },
+  {
+    "id": "saka",
+    "name": "Bukayo Saka",
+    "position": "RW",
+    "rating": 87,
+    "status": "healthy",
+    "attributes": {"pace": 91, "shooting": 80, "passing": 85, "dribbling": 88, "defending": 38, "physical": 77},
+    "traits": ["wing_attack", "crossing", "dribbler"]
+  },
+  {
+    "id": "bellingham",
+    "name": "Jude Bellingham",
+    "position": "CM",
+    "rating": 89,
+    "status": "healthy",
+    "attributes": {"pace": 85, "shooting": 80, "passing": 88, "dribbling": 84, "defending": 79, "physical": 83},
+    "traits": ["box_to_box", "stamina", "long_pass"]
+  },
+  {
+    "id": "rice",
+    "name": "Declan Rice",
+    "position": "CDM",
+    "rating": 88,
+    "status": "healthy",
+    "attributes": {"pace": 78, "shooting": 65, "passing": 83, "dribbling": 75, "defending": 90, "physical": 86},
+    "traits": ["interceptor", "stamina", "tactical_awareness"]
+  },
+  {
+    "id": "phillips",
+    "name": "Kalvin Phillips",
+    "position": "CM",
+    "rating": 85,
+    "status": "healthy",
+    "attributes": {"pace": 76, "shooting": 70, "passing": 82, "dribbling": 78, "defending": 85, "physical": 84},
+    "traits": ["deep_laying_playmaker", "stamina", "tactical_awareness"]
+  }
+]

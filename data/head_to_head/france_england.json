@@ -1,0 +1,8 @@
+{
+  "teams": ["france", "england"],
+  "matches": [
+    {"date": "2022-12-10", "home": "france", "away": "england", "score": "2-1"},
+    {"date": "2018-07-15", "home": "england", "away": "france", "score": "1-1"}
+  ],
+  "summary": {"france": 1, "england": 0, "draw": 1}
+}

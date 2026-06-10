@@ -1,0 +1,57 @@
+{
+  "id": "germany",
+  "name": "Germany",
+  "flag": "🇩🇪",
+  "continent": "Europe",
+  "fifa_rank": 10,
+  "coach_id": "nagelsmann",
+  "preferred_formation": "4-2-3-1",
+  "formations": ["4-2-3-1", "4-3-3"],
+  "team_attributes": {
+    "attack": 87,
+    "midfield": 89,
+    "defense": 84,
+    "goalkeeper": 88,
+    "pace": 83,
+    "physical": 87,
+    "creativity": 88,
+    "set_piece": 85
+  },
+  "tactical_tags": ["高位压迫", "快速转换", "边中结合"],
+  "recent_form": {
+    "wins": 3,
+    "draws": 1,
+    "losses": 1,
+    "goals_for": 9,
+    "goals_against": 5
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "ter_stegen",
+    "LB": "raum",
+    "LCB": "rudiger",
+    "RCB": "tah",
+    "RB": "kimmich",
+    "CDM": "androich",
+    "LCM": "gundogan",
+    "RCM": "musiala",
+    "LW": "wirtz",
+    "ST": "havertz",
+    "RW": "sane"
+  },
+  "bench": ["fullkrug", "gross", "koch"],
+  "players": [
+    "musiala",
+    "wirtz",
+    "havertz",
+    "rudiger",
+    "gundogan",
+    "sane"
+  ],
+  "head_to_head_ids": ["spain", "england", "portugal"],
+  "historical_notes": [
+    "世界杯历史战绩辉煌",
+    "擅长高强度团队足球"
+  ]
+}

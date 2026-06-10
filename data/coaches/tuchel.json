@@ -1,0 +1,10 @@
+{
+  "id": "tuchel",
+  "name": "Thomas Tuchel",
+  "style": "High-Pressing Possession",
+  "attack_tendency": 80,
+  "defense_tendency": 85,
+  "pressing": 90,
+  "risk_level": 50,
+  "description": "注重控球和高位压迫，善于快速反击与防守转换"
+}

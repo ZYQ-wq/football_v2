@@ -1,0 +1,47 @@
+{
+  "id": "brazil",
+  "name": "Brazil",
+  "flag": "🇧🇷",
+  "continent": "South America",
+  "fifa_rank": 1,
+  "coach_id": "tite",
+  "preferred_formation": "4-2-3-1",
+  "formations": ["4-2-3-1", "4-3-3"],
+  "team_attributes": {
+    "attack": 93,
+    "midfield": 90,
+    "defense": 85,
+    "goalkeeper": 88,
+    "pace": 92,
+    "physical": 87,
+    "creativity": 91,
+    "set_piece": 85
+  },
+  "tactical_tags": ["控球推进", "边路突破", "快速反击"],
+  "recent_form": {
+    "wins": 5,
+    "draws": 0,
+    "losses": 0,
+    "goals_for": 14,
+    "goals_against": 3
+  },
+  "injuries": [],
+  "suspensions": [],
+  "starting_xi": {
+    "GK": "alisson",
+    "LB": "marquinhos",
+    "LCB": "thiago_silva",
+    "RCB": "militao",
+    "RB": "danilo",
+    "CDM": "casemiro",
+    "LCM": "fred",
+    "RCM": "bruno_guimaraes",
+    "LW": "vinicius",
+    "ST": "richarlison",
+    "RW": "neymar"
+  },
+  "bench": ["raphinha", "ederson", "gabriel_jesus"],
+  "players": ["neymar", "vinicius", "richarlison", "casemiro", "fred", "bruno_guimaraes"],
+  "head_to_head_ids": ["argentina", "france"],
+  "historical_notes": ["技术细腻", "边路攻击强"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "deschamps",
+  "name": "Didier Deschamps",
+  "style": "Pragmatic Counter Attack",
+  "attack_tendency": 75,
+  "defense_tendency": 90,
+  "pressing": 70,
+  "risk_level": 40,
+  "description": "重视防守结构与快速转换"
+}
