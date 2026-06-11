@@ -4,6 +4,7 @@ from services.team_builder import TeamBuilder
 from services.data_loader import DataLoader
 from agents.team_agent import TeamAgent
 from services.match_engine_v3 import MatchEngine
+from agents.commentary_agent import CommentaryAgent
 
 router = APIRouter()
 
@@ -40,4 +41,15 @@ def simulate_match(payload: dict):
         away_agent
     )
 
-    return result
+    commentary_agent = CommentaryAgent()
+    commentary = commentary_agent.generate_commentary(
+        home_context["team"]["name"],
+        away_context["team"]["name"],
+        result["timeline"]
+    )
+
+    return {
+    "score": result["score"],
+    "timeline": result["timeline"],
+    "commentary": commentary
+}
